@@ -1,0 +1,3 @@
+- In Azure, find the user/device in question
+- Go to devices and select the device
+- BitLocker keys (Preview) will be found in the menu.

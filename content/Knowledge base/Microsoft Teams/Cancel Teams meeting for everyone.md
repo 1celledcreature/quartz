@@ -1,0 +1,6 @@
+- Go to the meeting in the teams calendar and click it.
+- Select edit.
+- Then the details will appear and you can click 'cancel meeting'.
+- This deletes the meeting and notifies the attendees.
+- However, if they are 'microsoft teams free users', they will need to delete manually.
+- In case they don't get the memo, be sure to go into the 'meetings' tab, click more options (the 3 dots) and select delete.
